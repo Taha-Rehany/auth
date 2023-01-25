@@ -1,0 +1,11 @@
+{
+  "name": "auth-domain-package",
+  "version": "1.0.4",
+  "description": "this is auth domain package",
+  "main": "./nuxt.config.ts",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "nuxt": "^3.0.0"
+  }
+}
